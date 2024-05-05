@@ -37,7 +37,7 @@ def wrong_credentials():
   st.sidebar.write('Wrong User-ID 😢')
 
 def welcome_user():
-  st.sidebar.write('Welcome to BookCrossing! 🥳 ')
+  st.sidebar.write('Welcome to Bookrecom! Siuu 🥳 ')
   st.sidebar.write('Start reading books to get more personalised recommendations 🧐')
   
 def already_added():
