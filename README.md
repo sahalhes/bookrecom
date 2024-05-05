@@ -1,16 +1,15 @@
-# Book-Recommendation-System 
+# Book Recommendation System 
 
-Content based and collaborative filtering.
+This website uses content-based(your reading) and collaborative filtering (friend's reading).
 Deployed using streamlit.
 
+## Usage 
 
-# Usage 
+### Online 
 
-## Online 
+[Visit here](https://bookrecom.streamlit.app/)
 
-[Visit here] (https://bookrecom.streamlit.app/)
-
-## Local 
+### Local 
 
 1. Clone the repository:
     ```bash
@@ -22,9 +21,8 @@ Deployed using streamlit.
     pip install -r requirements.txt
     ```
 
-3. Run the `app.py` file using streamlit:
+3. Run the `app.py` file using Streamlit:
     ```bash
     streamlit run app.py
     ```
 
-# bookrecom
