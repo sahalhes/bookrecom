@@ -1,14 +1,14 @@
-# Book-Recommendation-System-Streanlit
-
+# Book-Recommendation-System 
 
 Content based and collaborative filtering.
+Deployed using streamlit.
 
 
 # Usage 
 
 ## Online 
 
-[Visit here] ()
+[Visit here] (https://bookrecom.streamlit.app/)
 
 ## Local 
 
